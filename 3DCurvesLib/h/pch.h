@@ -11,7 +11,6 @@
 
 #include "framework.h"
 #include <algorithm>
-#include <initializer_list>
 
 #define _USE_MATH_DEFINES
 
